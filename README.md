@@ -11,3 +11,16 @@ Isi Capstone ini adalah sebuah aplikasi sederhana bernama "Mini Aplikasi Warehou
     Kategori : Kelompok atau jenis produk sejenis yang terdapat pada gudang
     Unit : Kuantitas produk yang tersedia pada gudang
     Harga satuan : Harga per unit produk
+
+Fitur (fungsi) yang tersedia pada Aplikasi :
+ 
+    1. Fungsi menu_utama()
+    <br>Fungsi ini digunakan untuk menampilkan tampilan menu utama dari program aplikasi dengan pilihan untuk melihat Report Stock Gudang, Tambah Stock Baru ke Gudang, Update Stock Gudang, Delete Stock Gudang, dan Exit Program.
+    
+    2. Fungsi menu_report()
+    <br>Fungsi ini digunakan untuk menampilkan menu Report Stock Gudang dengan opsi untuk melihat stok secara keseluruhan, stok berdasarkan kategori, dan kembali ke menu utama.
+    
+    Nama Produk : Nama produk yang ada dalam stok gudang
+    Kategori : Kelompok atau jenis produk sejenis yang terdapat pada gudang
+    Unit : Kuantitas produk yang tersedia pada gudang
+    Harga satuan : Harga per unit produk
