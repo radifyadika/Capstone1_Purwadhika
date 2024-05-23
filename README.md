@@ -6,7 +6,7 @@ Isi Capstone ini adalah sebuah aplikasi sederhana bernama "Mini Aplikasi Warehou
 ## Application Guide
  Daftar Tabel Stock Data :
  
-    ID : Nomor unik untuk setiap data produk
+    ID- : Nomor unik untuk setiap data produk (diambil dari 3 huruf pertama Kategori produk)
     Nama Produk : Nama produk yang ada dalam stok gudang
     Kategori : Kelompok atau jenis produk sejenis yang terdapat pada gudang
     Unit : Kuantitas produk yang tersedia pada gudang
