@@ -4,15 +4,15 @@ Isi Capstone ini adalah sebuah aplikasi sederhana bernama "Mini Aplikasi Warehou
 ## Prepared by Radif Ramadan as a Student from the JCDS Program's Purwadhika for Capstone Project Module 1 (Programming with Python)
 
 ## Application Guide
-• Daftar Tabel Stock Data :
+**• Daftar Tabel Stock Data :**
  
-    ID- : Nomor unik untuk setiap data produk (diambil dari 3 huruf pertama Kategori produk)
-    Nama Produk : Nama produk yang ada dalam stok gudang
-    Kategori : Kelompok atau jenis produk sejenis yang terdapat pada gudang
-    Unit : Kuantitas produk yang tersedia pada gudang
-    Harga satuan : Harga per unit produk
+    **ID-** : Nomor unik untuk setiap data produk (diambil dari 3 huruf pertama Kategori produk)
+    **Nama Produk** : Nama produk yang ada dalam stok gudang
+    **Kategori** : Kelompok atau jenis produk sejenis yang terdapat pada gudang
+    **Unit** : Kuantitas produk yang tersedia pada gudang
+    **Harga satuan** : Harga per unit produk
 
-• Fitur (fungsi) yang tersedia pada Aplikasi :
+**• Fitur (fungsi) yang tersedia pada Aplikasi :**
  
     1. Fungsi menu_utama()
     Fungsi ini digunakan untuk menampilkan tampilan menu utama dari program aplikasi dengan pilihan untuk melihat 
