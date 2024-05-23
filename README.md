@@ -1,4 +1,4 @@
-# Capstone1_Purwadhika 🎊
+# Capstone1_Purwadhika 👋
 Isi Capstone ini adalah sebuah aplikasi sederhana bernama "Mini Aplikasi Warehouse JCDSOL ELECSTORAGE Stock Data" yang dirancang untuk membantu mengelola persediaan barang elektronik di gudang. Aplikasi ini memiliki fitur CRUD (Create, Read, Update, Delete) yang memungkinkan pengguna untuk menambahkan item baru, melihat daftar item yang tersedia, memperbarui informasi item, dan menghapus item dari sistem.
 
 ### Prepared by Radif Ramadan as a Student from the JCDS Program's Purwadhika for Capstone Project Module 1 (Programming with Python)
@@ -48,7 +48,7 @@ Program ini memiliki beberapa kekurangan yang perlu diperbaiki, antara lain:
  4. Program ini belum menerapkan pengamanan login, seperti penggunaan password dan sistem akun.
  5. Dan masih terdapat kekurangan lain yang dapat diperbaiki.
 
-### *_For inquiries or collaboration opportunities, please contact me through my social media channels listed_*:
+#### *_For inquiries or collaboration opportunities, please contact me through my social media channels listed_*🙌:
 [Instagram](https://www.instagram.com/radifyadika_) |
 [LinkedIn](https://www.linkedin.com/in/radiframadan/) |
 📞: (+62)-813 1005 5488
