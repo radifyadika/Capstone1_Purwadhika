@@ -40,3 +40,15 @@ Isi Capstone ini adalah sebuah aplikasi sederhana bernama "Mini Aplikasi Warehou
     Fungsi ini digunakan untuk mengajukan pertanyaan dengan pilihan Yes atau No, di mana jika jawabannya Yes, program akan melakukan 
     suatu tindakan, dan jika jawabannya No, program akan melakukan tindakan lain.
 
+## Notes
+Program ini memiliki beberapa kekurangan yang perlu diperbaiki, antara lain:
+ 1. Visual dari program ini masih kurang interaktif dan menarik.
+ 2. Saat program ditutup, data yang telah direkam sebelumnya tidak disimpan dan akan direset.
+ 3. Data awal hanya berupa dummy dan disimpan dalam dictionary di bagian awal kode sebagai inisiasi.
+ 4. Program ini belum menerapkan pengamanan login, seperti penggunaan password dan sistem akun.
+ 5. Dan masih terdapat kekurangan lain yang dapat diperbaiki.
+
+### *_For inquiries or collaboration opportunities, please contact me through my social media channels listed_*:
+[Instagram](https://www.instagram.com/radifyadika_) |
+[LinkedIn](https://www.linkedin.com/in/radiframadan/) |
+📞: (+62)-813 1005 5488
